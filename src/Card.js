@@ -27,7 +27,7 @@ class Card extends Component {
                       <span className="fa-li">
                         <i className="fas fa-check"></i>
                       </span>
-                      <h1>{title}</h1>
+                      {title}
                     </li>
                   );
                 } else {
