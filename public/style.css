@@ -1,7 +1,7 @@
 section.pricing {
   background: #007bff;
   background: linear-gradient(to right, #0062e6, #33aeff);
-  height: 100vh;
+  min-height: 100vh;
 }
 
 .pricing .card {
